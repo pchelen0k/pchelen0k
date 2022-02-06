@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @pchelen0k
 - 👀 I’m interested in System Administration.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python, Golang, C#.
 
 <!---
 pchelen0k/pchelen0k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
